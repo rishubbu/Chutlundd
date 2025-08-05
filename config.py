@@ -15,13 +15,13 @@ API_HASH = getenv("API_HASH")
 BOT_TOKEN = getenv("BOT_TOKEN")
 BOT_ID = getenv("BOT_ID")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","purvibots")
+OWNER_USERNAME = getenv("OWNER_USERNAME","oy_baby")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "MayaMusicRobot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "Spotifyofficialrebot")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "Maya")
+BOT_NAME = getenv("BOT_NAME" , "δ ρ ο Т ί ƒ ϒ [ 𝐍ᴏ 𝐀ᴅs ]")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "Sonali")
+ASSUSERNAME = getenv("ASSUSERNAME" , "Spotifyofficialrebot")
 # ---------------------------------------------------------
 
 
@@ -41,7 +41,7 @@ LOGGER_ID = int(getenv("LOGGER_ID"))
 CLONE_LOGGER = LOGGER_ID
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 8143754205))
+OWNER_ID = int(getenv("OWNER_ID", 7649370492))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 # config.py
@@ -72,9 +72,9 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/About_badnam_xd")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+ogNOGbs9JCFlNjk9")
-CHAT = getenv("CHAT", "https://t.me/+ogNOGbs9JCFlNjk9")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/ganaasupport")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/ganaasupport")
+CHAT = getenv("CHAT", "https://t.me/ganaasupport")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
@@ -159,10 +159,10 @@ HELP_IMG_URL = getenv(
     "HELP_IMG_URL", "https://i.ibb.co/xPjc7tv/help-menu.jpg"
 )
 
-START_IMG_URL = getenv("START_IMG_URL", "https://files.catbox.moe/fu6jk3.jpg")
-PING_IMG_URL = getenv("PING_IMG_URL", "https://files.catbox.moe/26nzoq.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://files.catbox.moe/q8bej6.jpg")
+PING_IMG_URL = getenv("PING_IMG_URL", "https://files.catbox.moe/q8bej6.jpg")
 PLAYLIST_IMG_URL = "https://files.catbox.moe/f2s4ws.jpg"
-STATS_IMG_URL = "https://files.catbox.moe/z0gh23.jpg"
+STATS_IMG_URL = "https://files.catbox.moe/q8bej6.jpg"
 TELEGRAM_AUDIO_URL = "https://files.catbox.moe/2y5o3g.jpg"
 TELEGRAM_VIDEO_URL = "https://files.catbox.moe/2y5o3g.jpg"
 STREAM_IMG_URL = "https://telegra.ph/file/d30d11c4365c025c25e3e.jpg"
