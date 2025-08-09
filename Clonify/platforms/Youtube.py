@@ -9,8 +9,8 @@ import httpx
 from pyrogram.enums import MessageEntityType
 from pyrogram.types import Message
 from youtubesearchpython.__future__ import VideosSearch
-from AnonXMusic.utils.database import is_on_off
-from AnonXMusic.utils.formatters import time_to_seconds
+from Chutlund.utils.database import is_on_off
+from Chutlund.utils.formatters import time_to_seconds
 from config import YOUR_API_URL , YOUR_API_KEY
 
 async def get_file_from_api(video_id, audio=True):
