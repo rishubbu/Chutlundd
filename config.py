@@ -24,7 +24,8 @@ BOT_NAME = getenv("BOT_NAME" , "δ ρ ο Т ί ƒ ϒ [ 𝐍ᴏ 𝐀ᴅs ]")
 ASSUSERNAME = getenv("ASSUSERNAME" , "Spotifyofficialrebot")
 # ---------------------------------------------------------
 
-
+YOUR_API_URL = getenv("YOUR_API_URL", "http://46.38.237.240:8000")
+YOUR_API_KEY = getenv("YOUR_API_KEY", "28b8dbde3c3841a9a4b049e62a5f7ab5")
 #---------------------------------------------------------------
 #---------------------------------------------------------------
 MONGO_DB_URI = getenv("MONGO_DB_URI")
